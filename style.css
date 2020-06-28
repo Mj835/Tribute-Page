@@ -1,0 +1,15 @@
+.container1{
+    width:80%;
+    height:70%;
+    filter: grayscale(100%);
+    transition: 1s;
+}
+
+.container1:hover {
+    filter: grayscale(0);
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.journey{
+    margin: 0 50px;
+}
